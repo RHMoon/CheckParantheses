@@ -1,3 +1,6 @@
+## CheckParantheses
+This program create to check parantheses on the input given. The program capable to check wether the open and closure of bracket is complete or not, the order is correct or not, and the paratheses available or not. Return the input and the parantheses status.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
